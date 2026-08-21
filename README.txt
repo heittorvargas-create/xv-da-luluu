@@ -1,0 +1,1 @@
+Esta pasta está aqui pra você usar se quiser trocar alguma ilustração por uma imagem real (ex: foto da Lulu). O convite hoje não precisa de nenhum arquivo aqui — todas as ilustrações já estão dentro do index.html.
